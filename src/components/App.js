@@ -20,7 +20,7 @@ class App extends Component {
 
 function mapStateToProps({ authedUser }) {
   return {
-    loading: authedUser === nul
+    loading: authedUser === null
   }
 }
 
