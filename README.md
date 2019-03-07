@@ -4,9 +4,12 @@ This repo is a code-along with the first project in the [React Nanodegree progra
 
 Most of the commits in this repository correspond to videos in the program.
 
+## Demo
+https://romanonatacha.github.io/reactnd-chirper-app/
+
 ## Project Setup
 
-* clone the Project - `git@github.com:udacity/reactnd-chirper-app.git`
+* clone the Project - `git clone https://github.com/romanonatacha/reactnd-chirper-app.git`
 * install the dependencies - `npm install`
 
 ## Contributing
@@ -18,5 +21,4 @@ If you feel like there's a major problem, please open an issue to discuss the pr
 ## License
 
 MIT
-# reactnd-chirper-app
 # reactnd-chirper-app
